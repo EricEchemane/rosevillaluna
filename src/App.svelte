@@ -5,6 +5,7 @@
 <main>
 	<header class="shadow">
 		<h1> Rose Villaluna </h1>
+		<p> “For God so loved the world that he sent His only begotten son to save the people and would have eternal life with Him.” </p>
 		<img class="avatar shadow" src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.6435-9/241967965_3046291718993914_7971090436232087753_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFz8IE-EHu8zkHF6LPpdid5JiOvCmW8LRgmI68KZbwtGHmenBfbUQJZYa294Fap_5eyy9iAxIl4uu13ha8jDAOq&_nc_ohc=RyvjIGtK358AX9pqELA&_nc_ht=scontent.fmnl17-3.fna&oh=d987f887eed645d801d673037b441b99&oe=6176E1A1" alt="Rose Villaluna" />
 	</header>
 	<section class="outlined rounded">
@@ -23,7 +24,17 @@
 			<p> Taking Bachelor of Science in Secondary Education Major in Social Studies in Pamantasan ng Lungsod ng Muntinlupa. </p>
 		</div>
 		<!-- svelte-ignore a11y-media-has-caption -->
-		<video class="shadow rounded" src="rose.mp4" autoplay controls loop></video>
+		<video class="shadow rounded" src="rose.mp4" autoplay loop></video>
+	</section>
+
+	<section class="outlined rounded note">
+
+		As I did my Digital Media Output I was very amazed and astonished on how the
+		technology help me to boost my confidence and wide my understanding on media. At
+		first it was hard to use and explore some apps that am gonna use but at the end I do
+		love learning how to do and make an amazing output. Guess what? I got 92 of
+		Grades. It&#39;s not a high scores for everyone but I take it as a lesson to remind mysel
+		to improve.
 	</section>
 
 	<Content/>
@@ -31,6 +42,14 @@
 
 	<style>
 	@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+	header p {
+		color: white;
+		font-family: 'Lobster', cursive;
+		font-weight: 100;
+		text-align: center;
+		padding: 1rem;
+	}
 
 	#landing {
 		display: flex;
@@ -56,7 +75,7 @@
 	}
 	header {
 		width: 100%;
-		height: 32vh;
+		height: 40vh;
 		background: linear-gradient(90deg,#ff0077, #c300ff, dodgerblue, #ff0077);
 		background-size: 300%;
 		background-position: 0;
@@ -70,7 +89,7 @@
 		font-family: 'Lobster', cursive;
 		font-weight: 400;
 		text-align: center;
-		padding: 1rem;
+		padding: 1rem 0 0 0;
 		font-size: 5rem;
 	}
 	header .avatar {
@@ -93,7 +112,7 @@
 			top: 1rem;
 		}
 		header {
-			height: 25vh;
+			height: 35vh;
 		}
 		nav {
 			flex-direction: column;
