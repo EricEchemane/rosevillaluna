@@ -28,16 +28,25 @@
 	</section>
 
 	<section class="outlined rounded note">
-
-		As I did my Digital Media Output I was very amazed and astonished on how the
-		technology help me to boost my confidence and wide my understanding on media. At
-		first it was hard to use and explore some apps that am gonna use but at the end I do
-		love learning how to do and make an amazing output. Guess what? I got 92 of
-		Grades. It&#39;s not a high scores for everyone but I take it as a lesson to remind mysel
-		to improve.
+		<p>
+			As I did my Digital Media Output I was very amazed and astonished on how the
+			technology help me to boost my confidence and wide my understanding on media. At
+			first it was hard to use and explore some apps that am gonna use but at the end I do
+			love learning how to do and make an amazing output. Guess what? I got 92 of
+			Grades. It&#39;s not a high scores for everyone but I take it as a lesson to remind mysel
+			to improve.
+		</p>
 	</section>
 
 	<Content/>
+
+	<section class="outlined rounded">
+		<nav>
+			<a href="https://www.facebook.com/roseanne.villaluna.9"> Facebook </a>
+			<a href="https://www.instagram.com/roserosevillaluna"> Instagram </a>
+		</nav>
+	</section>
+	<br>
 </main>
 
 	<style>
