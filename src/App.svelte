@@ -19,7 +19,7 @@
 
 	<section class="outlined rounded" id="landing">
 		<div>
-			<h1> Hi, I am Rose Anne Villaluna. Thank for visiting my e-portfolio. </h1>
+			<h1> Hi, I am Rose Anne Villaluna. Thank you for visiting my e-portfolio. </h1>
 			<br>
 			<p> Taking Bachelor of Science in Secondary Education Major in Social Studies in Pamantasan ng Lungsod ng Muntinlupa. </p>
 		</div>
