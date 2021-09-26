@@ -10,10 +10,11 @@
 	</header>
 	<section class="outlined rounded">
 		<nav>
-			<a href="#about-me"> About me </a>
-			<a href="#about-my-course"> About my course </a>
-			<a href="#reflection"> Reflection on the course </a>
-			<a href="#prof"> Professor </a>
+			<a href="#about-me"> About Me </a>
+			<a href="#about-my-course"> About My Course </a>
+			<a href="#reflection"> Reflection On The Course </a>
+			<a href="#reflection"> My Dream </a>
+			<a href="#dream"> Professor </a>
 		</nav>
 	</section>
 
@@ -29,12 +30,7 @@
 
 	<section class="outlined rounded note">
 		<p>
-			As I did my Digital Media Output I was very amazed and astonished on how the
-			technology help me to boost my confidence and wide my understanding on media. At
-			first it was hard to use and explore some apps that am gonna use but at the end I do
-			love learning how to do and make an amazing output. Guess what? I got 92 of
-			Grades. It&#39;s not a high scores for everyone but I take it as a lesson to remind mysel
-			to improve.
+			As I did my Digital Media Output I was very amazed and astonished at how the technology help me to boost my confidence and widen my understanding of media.  At first it was hard to use and explore some apps that am gonna use, but at the end, I do love learning how to do and make an amazing output. Guess what? I got 92% of Grades🤗. It's not a high score for everyone, but I take it as a lesson to remind myself to improve. 
 		</p>
 	</section>
 
@@ -114,6 +110,11 @@
 		margin: 1rem;
 		padding: 1rem;
 		background-color: var(--surface1);
+	}
+	@media (max-width: 650px) {
+		nav {
+			flex-direction: column;
+		}
 	}
 	@media (max-width: 560px) {
 		header h1 {
