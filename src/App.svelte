@@ -24,7 +24,7 @@
 			<p> Taking Bachelor of Science in Secondary Education Major in Social Studies in Pamantasan ng Lungsod ng Muntinlupa. </p>
 		</div>
 		<!-- svelte-ignore a11y-media-has-caption -->
-		<video class="shadow rounded" src="rose.mp4" autoplay loop></video>
+		<video class="shadow rounded" src="rose.mp4" autoplay controls loop></video>
 	</section>
 
 	<section class="outlined rounded note">
