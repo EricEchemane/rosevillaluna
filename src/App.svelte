@@ -13,8 +13,8 @@
 			<a href="#about-me"> About Me </a>
 			<a href="#about-my-course"> About My Course </a>
 			<a href="#reflection"> Reflection On The Course </a>
-			<a href="#reflection"> My Dream </a>
-			<a href="#dream"> Professor </a>
+			<a href="#dream"> My Dream </a>
+			<a href="#prof"> Professor </a>
 		</nav>
 	</section>
 
