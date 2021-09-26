@@ -121,7 +121,7 @@
 			top: 1rem;
 		}
 		header {
-			height: 35vh;
+			height: 30vh;
 		}
 		nav {
 			flex-direction: column;
